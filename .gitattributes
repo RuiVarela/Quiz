@@ -1,0 +1,5 @@
+source_assets/AppIcon.icns filter=lfs diff=lfs merge=lfs -text
+source_assets/store_512.png filter=lfs diff=lfs merge=lfs -text
+source_assets/store_1024.png filter=lfs diff=lfs merge=lfs -text
+source_assets/app.ico filter=lfs diff=lfs merge=lfs -text
+source_assets/app.icns filter=lfs diff=lfs merge=lfs -text

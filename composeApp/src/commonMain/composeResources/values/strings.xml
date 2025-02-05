@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="main_menu_title">Let's Quiz</string>
+    <string name="developer_menu_title">Developer</string>
+    <string name="highscores">High Scores</string>
+
+    <string name="question_correct">Well done! 😁\nLet' try another one...</string>
+    <string name="question_incorrect">😵‍💫Noooo\nThat is the wrong answer!\n%1$d</string>
+    <string name="quiz_abandoned">Better luck next time 🤦‍♀️\n%1$s </string>
+    <string name="quiz_winner">🎉 Winner️ 🎈\n%1$s </string>
+    <string name="quiz_loading_error">Ooops something bad happen, check your internet connection.</string>
+
+    <string name="preparing_quiz">Preparing your Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+
+    <string name="give_up">I Give Up!</string>
+    <string name="done">Done</string>
+    <string name="ok">Ok</string>
+</resources>
